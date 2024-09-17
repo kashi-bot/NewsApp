@@ -1,0 +1,35 @@
+/* Add this in your CSS file */
+
+body {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1 {
+  color: #f11946;
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  background-color: #1c1c1c;
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+select.form-select {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.card {
+  border: 1px solid #ddd;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover;
+}
